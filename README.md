@@ -1,6 +1,6 @@
 ***INSTALACIÓN, CONFIGURACIÓN Y USO DE GITHUB***
 
-#Proyecto01#
+# #Proyecto01
 
 **Proyecto creado por Raúl Benítez**
 
